@@ -1,0 +1,28 @@
+{
+  "name": "stack-bucket-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stacklearner/stack-bucket-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stacklearner/stack-bucket-node/issues"
+  },
+  "homepage": "https://github.com/stacklearner/stack-bucket-node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  },
+  "engines": {
+    "node": "15.0.1"
+  }
+}

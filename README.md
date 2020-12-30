@@ -2,4 +2,4 @@
 
 A Simple Shopping List Application Made with Node & Express
 
-[x] Create an express server
+-   [x] Create an express server
